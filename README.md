@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Hi, I'm Murilo Baptista from Brazil <img height="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/272/flag-brazil_1f1e7-1f1f7.png"> and I love to resolve problems and one of my best tools is programming. I would call myself a Full Stack Web Developer 🚀.
+Hi, I'm Murilo Baptista from Brazil <img height="20" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/openmoji/272/flag-brazil_1f1e7-1f1f7.png"> and I love to solve problems and one of my best tools is programming. I would call myself a Full Stack Web Developer 🚀.
   
 **Talking about Personal Stuffs:**
 
