@@ -4,12 +4,13 @@
 </a>
 
 <br />
+<br />
 
 Hi, I'm Murilo Baptista from Brazil :brazil: and I love to resolve problems and one of my best tools is programming. I would call myself a Full Stack Web Developer 🚀.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on website to open Pokemon packs;
+- 👨🏽‍💻 I’m currently working on website that simulates booster pack openings;
 - 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@muboeira](https://twitter.com/muboeira);
