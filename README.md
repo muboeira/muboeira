@@ -10,7 +10,7 @@ Hi, I'm Murilo Baptista from Brazil <img height="20" src="https://emojipedia-us.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on some cool project;
+- 👨🏽‍💻 I’m currently working on a cool project;
 - 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@muboeira](https://twitter.com/muboeira);
