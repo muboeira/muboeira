@@ -11,7 +11,7 @@ Hi, I'm Murilo Baptista from Brazil <img height="20" src="https://emojipedia-us.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on a cool project;
-- 🌱 I’m currently learning Flutter; 
+- 🌱 I’m currently learning Elixir; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@muboeira](https://twitter.com/muboeira);
 - 👨‍💻 HackerRank: https://www.hackerrank.com/muboeira
